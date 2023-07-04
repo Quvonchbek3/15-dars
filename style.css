@@ -1,0 +1,185 @@
+.eng {
+  background-color: rgb(227, 221, 221);
+  width: 1500px;
+  height: 690px;
+}
+
+.katta {
+  width: 540px;
+  height: 570px;
+  background-color: white;
+}
+
+.button {
+  position: absolute;
+  top: 35px;
+  left: 1270px;
+}
+
+.rasm2 {
+  position: absolute;
+  top: 230px;
+  left: 230px;
+}
+
+.text2 {
+  color: white;
+  position: absolute;
+  top: 95px;
+  left: 430px;
+}
+
+.qizil {
+  background-color: red;
+  position: absolute;
+  top: 90px;
+  left: 400px;
+  width: 100px;
+  height: 30px;
+}
+
+.text3 {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.text4 {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.text5 {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.rasm4 {
+  background-color: gray;
+  position: absolute;
+  top: 550px;
+  left: 400px;
+  width: 35px;
+  height: 35px;
+}
+
+.rasm5 {
+  background-color: gray;
+  position: absolute;
+  top: 550px;
+  left: 450px;
+  width: 35px;
+  height: 35px;
+}
+
+.katta1 {
+  margin-top: -570px;
+  margin-left: 580px;
+  width: 355px;
+  height: 280px;
+  background-color: white;
+}
+
+.rasm100 {
+  width: 355px;
+  height: 170px;
+}
+
+.rasm200 {
+  position: absolute;
+  top: 130px;
+  left: 730px;
+}
+
+.rasm30 {
+  position: absolute;
+  top: 330px;
+  left: 610px;
+}
+
+.text6 {
+  position: absolute;
+  top: 315px;
+  left: 630px;
+  color: gray;
+}
+
+.rasm40 {
+  position: absolute;
+  top: 330px;
+  left: 670px;
+}
+
+.text7 {
+  position: absolute;
+  top: 315px;
+  left: 690px;
+  color: gray;
+}
+
+.rasm50 {
+  position: absolute;
+  top: 330px;
+  left: 850px;
+}
+
+.text8 {
+  position: absolute;
+  top: 315px;
+  left: 870px;
+  color: gray;
+}
+
+.katta2 {
+  position: absolute;
+  top: 370px;
+  left: 590px;
+  width: 355px;
+  height: 280px;
+  background-color: white;
+}
+
+.rasm20 {
+  position: absolute;
+  top: 60px;
+  left: 150px;
+}
+
+.ikon {
+  position: absolute;
+  top: -80px;
+  left: -590px;
+}
+
+.katta3 {
+  position: absolute;
+  top: 80px;
+  left: 980px;
+  width: 355px;
+  height: 280px;
+  background-color: white;
+}
+
+.katta4 {
+  position: absolute;
+  top: 370px;
+  left: 980px;
+  width: 355px;
+  height: 280px;
+  background-color: white;
+}
+
+.rang {
+  color: white;
+  position: absolute;
+  top: 70px;
+  left: 873px;
+}
+
+.ranng2 {
+  background-color: red;
+  position: absolute;
+  top: 65px;
+  left: 843px;
+  width: 100px;
+  height: 30px;
+}/*# sourceMappingURL=style.css.map */
